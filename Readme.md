@@ -1,10 +1,8 @@
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Alt Text" width="100" height="100">
-</p>
-
-<h1 align="center">Balaji's Portfolio</h1>
-
-<p align="center">
+  Balaji's Portfolio
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Alt Text" width="100" height="100">
 </p>
 
