@@ -5,17 +5,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 
 
-<!-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
@@ -23,9 +22,9 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
-
+<img height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmysql&psig=AOvVaw1JVLMJdvu6Jn2PRLpgnf3Z&ust=1719203609196000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKjj9Nzy8IYDFQAAAAAdAAAAABAE"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  -->
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 
 
