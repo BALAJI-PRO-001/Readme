@@ -54,7 +54,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  -->
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%"> -->
 
 <!-- ## Activities
 
