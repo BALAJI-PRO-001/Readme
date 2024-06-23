@@ -29,7 +29,7 @@
 <img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
-<img height="50" width="100%" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*QuMR4e-gMbOomdrQQZXtUg.jpeg"/> 
+<img height="50" width="80" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*QuMR4e-gMbOomdrQQZXtUg.jpeg"/> 
 
 
 ### IDE and Tools I Use
