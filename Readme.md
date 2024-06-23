@@ -1,11 +1,11 @@
 ## Hi there 👋 It's me Balaji
 
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on Ethical Hacking
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-- 😄 Pronouns: Techie
+- **🌱 Currently expanding expertise in Web Development.**
+- **👯 Actively seeking collaboration opportunities in Ethical Hacking.**
+- **🤔 Seeking guidance and support for career placements in FAANG companies.**
+- **💬 Feel free to engage me in discussions about technology.**
+- **😄 Pronouns: Techie**
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
