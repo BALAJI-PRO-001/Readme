@@ -33,7 +33,7 @@
 
 
 ### Algorithms
-<img height="50" width="50" src="https://media.licdn.com/dms/image/D4D12AQF2UVgSmBI74w/article-cover_image-shrink_720_1280/0/1675012140861?e=2147483647&v=beta&t=EpJ1GGBVvpuaK2UT9LWSON6unOu1v_D2sic4qH4_d1Q" /> 
+<img width="50" height="50" src="https://img.icons8.com/external-flat-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(flat)-flat-andi-nur-abdillah"/>
 
 
 ### IDE and Tools I Use
