@@ -31,8 +31,14 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  -->
 
 
+
+### Algorithms
+<img height="50" width="50" src="https://media.licdn.com/dms/image/D4D12AQF2UVgSmBI74w/article-cover_image-shrink_720_1280/0/1675012140861?e=2147483647&v=beta&t=EpJ1GGBVvpuaK2UT9LWSON6unOu1v_D2sic4qH4_d1Q" /> 
+
+
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+
 
 
 <!-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
