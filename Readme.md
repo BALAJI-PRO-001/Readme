@@ -18,7 +18,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
+<img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
