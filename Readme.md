@@ -1,6 +1,6 @@
 ## Balaji's Portfolio
 
-Welcome to my GitHub repository! I'm Balaji, a software developer passionate about web development, back-end technologies, databases, and more. Here's a breakdown of my skills and experience:
+**_Welcome to my GitHub repository! I'm Balaji, a software developer passionate about web development, back-end technologies, databases, and more. Here's a breakdown of my skills and experience:_**
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
