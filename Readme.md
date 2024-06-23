@@ -15,7 +15,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-<img height="50" width="50" src="https://github.com/BALAJI-PRO-001/Readme/blob/main/icons/icons8-angularjs-48.png" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
