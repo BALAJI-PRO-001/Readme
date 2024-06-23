@@ -16,6 +16,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo"/>
 
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
