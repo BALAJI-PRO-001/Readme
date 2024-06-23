@@ -54,4 +54,4 @@
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  -->
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="50" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="50" width="100%">
