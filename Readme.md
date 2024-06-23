@@ -7,8 +7,6 @@
 ### I code in
 
 
-
-
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -22,7 +20,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
-<img height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dmysql&psig=AOvVaw1JVLMJdvu6Jn2PRLpgnf3Z&ust=1719203609196000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKjj9Nzy8IYDFQAAAAAdAAAAABAE"/> 
+<img height="50" width="50" src="https://toppng.com/uploads/preview/mysql-logo-png-download-11660514412mr84q2mfam.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
