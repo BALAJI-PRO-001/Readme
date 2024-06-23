@@ -56,9 +56,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
 
-## Activities
+<!-- ## Activities
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAJI-PRO-001&bg_color=000000&color=white&line=green&point=white&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAJI-PRO-001&bg_color=000000&color=white&line=green&point=white&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="2" width="100%">
 
